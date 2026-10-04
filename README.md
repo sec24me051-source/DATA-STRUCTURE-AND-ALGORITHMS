@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sec24me051-source/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/sec24me051-source/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sec24me051-source/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
@@ -14,9 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sec24me051-source/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/sec24me051-source/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/sec24me051-source/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0704-binary-search) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/sec24me051-source/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
