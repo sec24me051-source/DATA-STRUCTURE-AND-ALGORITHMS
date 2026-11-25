@@ -7,7 +7,7 @@ class Solution:
     def middleNode(self, head: ListNode | None) -> ListNode | None:
         f=head
         s=head
-        while(f and f.next):
+        while(f!=None and f.next!=None):
             s=s.next
             f=f.next.next
         return s
